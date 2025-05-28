@@ -16,7 +16,7 @@ This repository contains the weekly schedule and learning resources for the ML/D
 
 | Topic Name                          | YouTube Link |
 |------------------------------------|--------------|
-| Intro to Deep Learning             | (Deep Learning))[https://youtu.be/DKSZHN7jftI?si=_2cCUwvpiELJlVcx] |
+| Intro to Deep Learning             | [Deep Learning](https://youtu.be/DKSZHN7jftI?si=_2cCUwvpiELJlVcx) |
 | Deep Learning                      | *To be added* |
 | Neural Network Working             | *To be added* |
 | Activation Functions               | *To be added* |
